@@ -1,0 +1,4 @@
+Parse error on line 16:
+...ng --> DB;    Auth ..> RabbitMQ : Publi
+----------------------^
+Expecting 'SEMI', 'NEWLINE', 'EOF', 'AMP', 'START_LINK', 'LINK', 'LINK_ID', got 'NODE_STRING'
