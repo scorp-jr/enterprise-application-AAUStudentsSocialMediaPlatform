@@ -1,0 +1,36 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/">
+    <Project Path="src/API/AAU.Connect.API/AAU.Connect.API.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/AAU.Connect.BuildingBlocks.Application/AAU.Connect.BuildingBlocks.Application.csproj" />
+    <Project Path="src/BuildingBlocks/AAU.Connect.BuildingBlocks.Domain/AAU.Connect.BuildingBlocks.Domain.csproj" />
+    <Project Path="src/BuildingBlocks/AAU.Connect.BuildingBlocks.Infrastructure/AAU.Connect.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Auth/">
+    <Project Path="src/Modules/Auth/AAU.Connect.Modules.Auth.Api/AAU.Connect.Modules.Auth.Api.csproj" />
+    <Project Path="src/Modules/Auth/AAU.Connect.Modules.Auth.Application/AAU.Connect.Modules.Auth.Application.csproj" />
+    <Project Path="src/Modules/Auth/AAU.Connect.Modules.Auth.Domain/AAU.Connect.Modules.Auth.Domain.csproj" />
+    <Project Path="src/Modules/Auth/AAU.Connect.Modules.Auth.Infrastructure/AAU.Connect.Modules.Auth.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Groups/">
+    <Project Path="src/Modules/Groups/AAU.Connect.Modules.Groups.Api/AAU.Connect.Modules.Groups.Api.csproj" />
+    <Project Path="src/Modules/Groups/AAU.Connect.Modules.Groups.Application/AAU.Connect.Modules.Groups.Application.csproj" />
+    <Project Path="src/Modules/Groups/AAU.Connect.Modules.Groups.Domain/AAU.Connect.Modules.Groups.Domain.csproj" />
+    <Project Path="src/Modules/Groups/AAU.Connect.Modules.Groups.Infrastructure/AAU.Connect.Modules.Groups.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Messaging/">
+    <Project Path="src/Modules/Messaging/AAU.Connect.Modules.Messaging.Api/AAU.Connect.Modules.Messaging.Api.csproj" />
+    <Project Path="src/Modules/Messaging/AAU.Connect.Modules.Messaging.Application/AAU.Connect.Modules.Messaging.Application.csproj" />
+    <Project Path="src/Modules/Messaging/AAU.Connect.Modules.Messaging.Domain/AAU.Connect.Modules.Messaging.Domain.csproj" />
+    <Project Path="src/Modules/Messaging/AAU.Connect.Modules.Messaging.Infrastructure/AAU.Connect.Modules.Messaging.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Timeline/">
+    <Project Path="src/Modules/Timeline/AAU.Connect.Modules.Timeline.Api/AAU.Connect.Modules.Timeline.Api.csproj" />
+    <Project Path="src/Modules/Timeline/AAU.Connect.Modules.Timeline.Application/AAU.Connect.Modules.Timeline.Application.csproj" />
+    <Project Path="src/Modules/Timeline/AAU.Connect.Modules.Timeline.Domain/AAU.Connect.Modules.Timeline.Domain.csproj" />
+    <Project Path="src/Modules/Timeline/AAU.Connect.Modules.Timeline.Infrastructure/AAU.Connect.Modules.Timeline.Infrastructure.csproj" />
+  </Folder>
+</Solution>
