@@ -1,0 +1,6 @@
+@AAU.Connect.API_HostAddress = http://localhost:5065
+
+GET {{AAU.Connect.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
